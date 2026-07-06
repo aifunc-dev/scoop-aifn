@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/aifunc-dev/aifunc/releases/download/v0.1.0/aifn_0.1.0_windows_amd64.zip",
+            "bin": [
+                "aifn.exe"
+            ],
+            "hash": "3a172ccd08f7581ceabe819ed7c846052e2e08ac2058cfb80960f7b1ab03e5d5"
+        },
+        "arm64": {
+            "url": "https://github.com/aifunc-dev/aifunc/releases/download/v0.1.0/aifn_0.1.0_windows_arm64.zip",
+            "bin": [
+                "aifn.exe"
+            ],
+            "hash": "a812fb04de3520e5085bb4ae4cc8dada886c2b10a5c347c5f8437ef5b6516448"
+        }
+    },
+    "homepage": "https://github.com/aifunc-dev/aifunc",
+    "license": "Apache-2.0",
+    "description": "aifn - AI function CLI tool"
+}
