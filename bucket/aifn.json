@@ -1,19 +1,19 @@
 {
-    "version": "0.4.0",
+    "version": "0.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/aifunc-dev/aifunc/releases/download/v0.4.0/aifn_0.4.0_windows_amd64.zip",
+            "url": "https://github.com/aifunc-dev/aifunc/releases/download/v0.5.0/aifn_0.5.0_windows_amd64.zip",
             "bin": [
                 "aifn.exe"
             ],
-            "hash": "5737558d4dabd2b42551c7b04148049d29e6af9a736a96d245ee9ee110597c00"
+            "hash": "c3e1b1be05faf82fb6e35b26b6d1323a038e3f66604de85d371ad1587238cc29"
         },
         "arm64": {
-            "url": "https://github.com/aifunc-dev/aifunc/releases/download/v0.4.0/aifn_0.4.0_windows_arm64.zip",
+            "url": "https://github.com/aifunc-dev/aifunc/releases/download/v0.5.0/aifn_0.5.0_windows_arm64.zip",
             "bin": [
                 "aifn.exe"
             ],
-            "hash": "7c651afefa7a2fc9fbf362b8faf6c7527e0383373d5a9752de122ac05277d1b8"
+            "hash": "af846d21931b0b7b55f7c1adfd419e9d45351ea452a058e230fe72522a4ad784"
         }
     },
     "homepage": "https://github.com/aifunc-dev/aifunc",
